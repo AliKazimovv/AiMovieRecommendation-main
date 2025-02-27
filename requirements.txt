@@ -3,7 +3,7 @@ tensorflow
 torch
 scikit-learn
 pandas
-numpy
+numpy==1.23.5
 matplotlib
 seaborn
 scipy
